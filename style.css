@@ -91,7 +91,7 @@ body{
 .applicant{
   width:50%;
   padding:0.5em;
-  background-color:rgb(255, 224, 224);;
+  background-color: #f2f2f2;
   /* border-radius:15px 30px 15px 15px; */
   margin-bottom:1em;
 }
@@ -111,8 +111,8 @@ img{
 }
 
 .applicant h3{
-  font-size:25px;
-  padding-top:4em;
+  font-size:30px;
+  padding-top:2em;
   margin:0;
 }
 
