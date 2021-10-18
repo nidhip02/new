@@ -98,8 +98,8 @@ body{
 
 
 .image-holder{
-  width:300px;
-  height:300px; 
+  width:280px;
+  height:280px; 
 }
 
 img{
@@ -175,63 +175,14 @@ footer{
 
 @media only screen and  (max-width: 700px){
 
-  .top{
-    top: 15px;
-    height: 20vh
-  }
-
-  .container{
-    top: 400px;
-    height: 30vh;
-    width: 100%;
-  }
-
-  .sign-in{
-    width:100;
-    height: 30vh;
-  }
-  .sign-in h1{
-    font-size:3.5em;
-  }
-
-  .hires{
-    width:100%;
-    padding:1em;
-    display:flex;
-    flex-wrap:wrap;
-    align-items: center;
-  }
   
-  .applicant{
-    width:100%;
-    padding:0.5em;
-    background-color:#0a0a09;
-    /* border-radius:15px 30px 15px 15px; */
-    margin-bottom:1em;
-  }
-  
-  .image-holder{
-    width:500px;
-    height:500px; 
-  }
-
-  img{
-    width:200%;
-    height:200%;
-    object-fit:cover;
-    /* object-position:50% 50%; */
-    /* border-radius:40%; */
-  }
-  
-  .applicant h3{
-    font-size:30px;
-    padding-top:1em;
-    margin:0;
-  }
-
-  .btn-neon{
-    padding: 1em;
-    width:200px;
-    height: 200px;
-  }
 } 
+
+
+#gradient
+{
+  width: 100%;
+  height: 800px;
+  padding: 0px;
+  margin: 0px;
+}
